@@ -10,7 +10,7 @@ Ce projet est une solution au défi "Composant QR Code" proposé par [Frontend M
 
 ## Démo
 
-Vous pouvez visualiser une démonstration en direct de ce projet [ici](#). 
+Vous pouvez visualiser une démonstration en direct de ce projet [ici](https://consoleloguser.github.io/Frontend-Mentor-QR-code-component/). 
 
 ## Fonctionnalités
 
