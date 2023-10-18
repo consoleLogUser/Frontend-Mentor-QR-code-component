@@ -21,8 +21,6 @@ Vous pouvez visualiser une démonstration en direct de ce projet [ici](#).
 
 ## Auteur
 
-## Auteur
-
 Ce projet a été créé par [Aïmane BOUGTAÏB](https://github.com/consoleLogUser). 
 
 
